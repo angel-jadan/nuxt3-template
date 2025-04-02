@@ -1,0 +1,10 @@
+node_modules
+.nuxt
+dist
+.output
+coverage 
+.env
+.env.local
+.env.development
+.env.production
+.env.test
